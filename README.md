@@ -121,11 +121,6 @@ The goal is not just finding documents faster — but helping lawyers start mean
 
 ---
 
-## Author
-
-Saumya
----
-
 ## Note
 
 This was created as a product thinking / APM-style assignment and case study focused on legal AI workflows and semantic document discovery systems.
